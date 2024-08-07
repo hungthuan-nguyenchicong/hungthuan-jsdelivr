@@ -1,0 +1,12 @@
+{
+  "name": "hungthuan-jsdelivr",
+  "version": "1.0.0",
+  "description": "hungthuan-jsdelivr\r ## hoc git\r https://duthanhduoc.com/blog/toi-hoc-lai-git-tu-dau-part-2\r - list brach\r git branch -a\r - tao file package.json\r npm init -y\r test test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
